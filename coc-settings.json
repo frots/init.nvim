@@ -76,5 +76,6 @@
   // other stuff (language specific)
   "python.autoComplete.addBrackets": true,
   "python.jediEnabled": false,
-  "html.autoClosingTags": true
+  "html.autoClosingTags": true,
+  "java.home": "/usr/lib/jvm/default"
 }
